@@ -16,3 +16,4 @@ urlpatterns = [
     path('api/exchangeRate/', HandleMissingCurrenciesCodes.as_view()),
 
 ]
+# as;ldfkjsdf
